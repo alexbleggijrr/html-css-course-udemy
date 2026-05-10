@@ -130,4 +130,25 @@ a:active {
   background-color: black;
   font-style: italic;
 }
+
+a {
+  color: red;
+}
 /* LVHA */
+
+/* Resolving conflicts */
+/* #copyright {
+  color: red;
+}
+
+.copyright {
+  color: blue;
+}
+
+.text {
+  color: yellow;
+}
+
+footer p {
+  color: green !important;
+} */

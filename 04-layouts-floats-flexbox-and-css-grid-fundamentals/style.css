@@ -288,3 +288,13 @@ h1 {
 nav {
   float: right;
 }
+
+.clear {
+  clear: both;
+}
+
+.clear-fix::after {
+  content: "";
+  clear: both;
+  display: block;
+}
